@@ -31,3 +31,4 @@ def list_of_monsters(): #Allows for a list of monsters to be printed to the cons
     for monsters in monster_list:
         print(str(number) + ".", monsters.name)
         number += 1
+
